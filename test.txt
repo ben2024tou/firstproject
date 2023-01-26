@@ -1,6 +1,10 @@
 Rachid Benkitou
 Benkitou
 Testrr
+<<<<<<< HEAD
 
 
 I'm Rachid Benkitou
+=======
+Rachid Bnnnnnnnnnnnnnnnnnnnnn
+hhhhh
